@@ -1,4 +1,4 @@
-<img src="https://github.com/ArtWae/artwae/blob/main/assets/logo.gif">
+<img src="https://github.com/ArtWae/artwae/blob/main/assets/logo.gif" align="center"> 
 <h3 align="center">Связаться со мной:<h3>
 <div id="badges" align="center">
   <a href="https://t.me/ArtWae">
